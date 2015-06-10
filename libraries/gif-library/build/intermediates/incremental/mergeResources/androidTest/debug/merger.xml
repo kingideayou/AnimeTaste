@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="debug"><source path="/NeXT/MyProjects/AnimeTaste/libraries/gif-library/build/intermediates/bundles/debug/res"><file path="/NeXT/MyProjects/AnimeTaste/libraries/gif-library/build/intermediates/bundles/debug/res/values/values.xml" qualifiers=""><declare-styleable name="CustomTheme"><attr format="reference" name="gifMoviewViewStyle"/></declare-styleable><style name="Widget.GifMoviewView" parent="@android:style/Widget"/><style name="AppBaseTheme" parent="android:Theme.Light">        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style><declare-styleable name="GifMoviewView"><attr format="reference" name="gif"/><attr format="boolean" name="paused"/></declare-styleable><style name="AppTheme" parent="AppBaseTheme">        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style></file></source></dataSet><dataSet config="main"><source path="/NeXT/MyProjects/AnimeTaste/libraries/gif-library/src/androidTest/res"/><source path="/NeXT/MyProjects/AnimeTaste/libraries/gif-library/build/generated/res/rs/androidTest/debug"/><source path="/NeXT/MyProjects/AnimeTaste/libraries/gif-library/build/generated/res/generated/androidTest/debug"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="CustomTheme"><attr format="reference" name="gifMoviewViewStyle"/></declare-styleable><declare-styleable name="GifMoviewView"><attr format="reference" name="gif"/><attr format="boolean" name="paused"/></declare-styleable></configuration></mergedItems></merger>

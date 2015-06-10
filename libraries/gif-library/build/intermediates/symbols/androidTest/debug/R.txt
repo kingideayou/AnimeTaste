@@ -1,0 +1,11 @@
+int attr gif 0x7f010001
+int attr gifMoviewViewStyle 0x7f010000
+int attr paused 0x7f010002
+int style AppBaseTheme 0x7f020000
+int style AppTheme 0x7f020001
+int style Widget_GifMoviewView 0x7f020002
+int[] styleable CustomTheme { 0x7f010000 }
+int styleable CustomTheme_gifMoviewViewStyle 0
+int[] styleable GifMoviewView { 0x7f010001, 0x7f010002 }
+int styleable GifMoviewView_gif 0
+int styleable GifMoviewView_paused 1
